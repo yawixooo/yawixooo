@@ -1,1 +1,1 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![ilyxa05 profile stats](https://github-readme-stats.vercel.app/api?username=tibuspike000&show_icons=true&theme=synthwave)
