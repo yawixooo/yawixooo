@@ -4,5 +4,5 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![tibuspike000 profile stats](https://github-readme-stats.vercel.app/api?username=tibuspike000&show_icons=true&theme=merko)
+![tibuspike000 profile stats](https://github-readme-stats.vercel.app/api?username=yawixooo&show_icons=true&theme=merko)
 
