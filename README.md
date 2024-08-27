@@ -6,3 +6,4 @@
 
 ![yawixooo profile stats](https://github-readme-stats.vercel.app/api?username=yawixooo&show_icons=true&theme=merko)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yawixooo&langs_count=8theme=merko)
